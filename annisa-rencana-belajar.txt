@@ -4,5 +4,6 @@ Rencana Belajar Annisa
   * codeigniter
 - Bikin web portofolio
   * html css js
+  * php framework ci 
 - belajar bahasa inggris minimal sehari 1 materi
   * di dualingo
