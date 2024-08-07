@@ -3,3 +3,4 @@ Rencana Belajar Annisa
 - Framework PHP 
   * codeigniter
 - Bikin web portofolio
+- belajar bahasa inggris minimal sehari 1 materi
