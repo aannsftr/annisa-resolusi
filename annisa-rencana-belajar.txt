@@ -3,7 +3,7 @@ Rencana Belajar Annisa
 - Framework PHP 
   * codeigniter
 - Bikin web portofolio
-  * dinamis
+  * dinamis (html, css, js, php)
   * responsif
 - belajar bahasa inggris minimal sehari 1 materi
   * di cake
